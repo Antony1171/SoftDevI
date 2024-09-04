@@ -1,2 +1,8 @@
 John Antony Joya Rodriguez ___
-i learned that git hub dose not show blank files.
+i learned that git hub dose not show blank files.___
+
+took me a while and some reaserch/youtube videos but i found out that if you 
+move it and not copy it then their will only be one copy.
+
+	
+
